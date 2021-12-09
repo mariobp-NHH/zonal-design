@@ -1,0 +1,1 @@
+web: gunicorn zonal_design_app:server
