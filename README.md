@@ -1,2 +1,2 @@
-# zonal_design
+# Zonal Design
 Zonal App
